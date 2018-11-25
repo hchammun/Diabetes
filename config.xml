@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.gs.calc"
+	versionCode ="1"
+	version="1.0.0" >
+
+	<!-- Version code is optional and android only-->
+
+	<name> Beat Diabetes</name>
+
+	<description> Aim to provide awareness &amp; sencitising people about the decease in Mauritius.</description>
+
+	<author href="https://build.phonegap.com" email="hchammun@gmail.com">
+		Hansley Chammun </author>
+
+
+
+
+	</widget>
